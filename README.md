@@ -1,7 +1,6 @@
 <h1 align="left">
 Konichiwa 👋
 
-![rin](https://cdn.maymeow.com/rin.webp)
 
 # About ME 💬 :
 <img hight="400" width="330" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
